@@ -1,5 +1,9 @@
 package tema3ejercicioswhile;
-
+/*Las pruebas que he realizado han sido con los numeros :
+ * 4,5,6,7,23, -6 y estos numeros me han dado como resultado :23
+ * 
+ * 
+ * */
 import java.util.Scanner;
 
 public class Ejercicio1 {
