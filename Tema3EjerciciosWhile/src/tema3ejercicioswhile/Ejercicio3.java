@@ -29,7 +29,8 @@ public class Ejercicio3 {
 		
 		//iniciamos un while en el que suma se va añadiendo a numero
 		while (num>=0) {
-			suma+=num;
+			
+			suma+=num;//a suma se le sumará el valor que tiene guardado mas el numero introducido por el usuario
 			//y la media nos la darña la suma de los numeros entre los numeros
 			media = (suma/num);
 			//leemos de nuevo el numero del usuario
